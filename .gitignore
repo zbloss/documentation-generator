@@ -1,5 +1,15 @@
+# git secrets
+git_secrets.json
+
+# IDE Files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+notebooks/__pycache__/
 *.py[cod]
 *$py.class
 
